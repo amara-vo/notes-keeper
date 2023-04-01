@@ -1,5 +1,6 @@
 # notes-keeper
-A note-taking application. Allows you to add and delete notes as needed. This program was originally developed in CodeSandbox.
+A note-taking application. Allows you to add and delete notes as needed.
+This program was originally developed in CodeSandbox: https://n2egp0.csb.app/
 
 # How to Run Locally
 If there is an issue with running the program, change the package.json file.
